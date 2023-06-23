@@ -1,7 +1,15 @@
-# Tecnicas-de-Programacao-II
+# Como rodar 
 <ul>
-
-<li> <a href="https://github.com/LucasVinicius32/Tecnicas-de-Programacao-II/tree/atvi"> Lista 1</a> </li>
-<li> <a href="https://github.com/LucasVinicius32/Tecnicas-de-Programacao-II/tree/atvii"> Lista 2 </a> </li>
-<li> <a href="https://github.com/LucasVinicius32/Tecnicas-de-Programacao-II/tree/atviii">Lista 3 </a>  </li>
+<li>Abrir o WorkBench e usar o comando:</li>
+<p>create database lista_4; </p>
+</ul>
+<ul>
+  <li>Entrar na pasta Back-End pelo terminal e dar o comando:</li>
+  <p>npm install</p>
+  <p>npm start</p>
+</ul>
+<ul>
+  <li>Entrar na pasta Front-end pelo terminal e dar o comando:</li>
+  <p>npm install</p>
+  <p>npm start</p>
 </ul>
