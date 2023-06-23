@@ -1,0 +1,23 @@
+lib-cov
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+*.swp
+*.pdf
+pids
+logs
+results
+tmp
+public/css/main.css
+coverage
+.env
+node_modules
+bower_components
+__pycache__
+# Ignore built ts files
+dist/**/*
+
